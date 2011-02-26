@@ -1,0 +1,2 @@
+This is meant to give GNOME (but not only) users a mean to start up quickly those common application just after GDM log-in.
+Startup applications are OK when you start an app any time you boot GNOME, but, for me, it's kind of useful to have the ability to choose which one (of my preferred and most used) I'd like to start up: just unflag the one you don't need for this session and press OK ;)
