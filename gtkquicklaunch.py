@@ -31,7 +31,7 @@ class QuickLaunch():
                 try:
                     subprocess.Popen(i) # actually run program via subprocess
                 except OSError:
-                    print "Something wrong with "+i+". Double check path and permissions"
+                    print "Something wrong with %s. Double check path and permissions" % i
         else: print("nothing to do")
         return None
 
